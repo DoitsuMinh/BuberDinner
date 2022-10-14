@@ -13,3 +13,10 @@ POST {{host}}/auth/register
 "lastName": "Vu",
 "email": "jasontest@gmail.com",
 "password": "Jas0ntest!"
+
+####Note: Secret key
+```
+dotnet user-secrets init --project .\BuberDinner.Api\
+dotnet user-secrets set --project .\BuberDinner.Api\ "JwtSettings:Secret" "super-secret-key-from-user-secrets"
+dotnet user-secrets list --project .\BuberDinner.Api\
+```
