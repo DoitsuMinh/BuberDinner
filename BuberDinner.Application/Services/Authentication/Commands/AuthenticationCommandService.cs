@@ -1,4 +1,5 @@
-﻿using BuberDinner.Application.Common.Errors;
+﻿using BuberDinner.Application.Authentication.Common;
+using BuberDinner.Application.Common.Errors;
 using BuberDinner.Application.Common.Interfaces.Authentication;
 using BuberDinner.Application.Common.Interfaces.Persistence;
 using BuberDinner.Domain.Common.Errors;
@@ -39,7 +40,7 @@ namespace BuberDinner.Application.Services.Authentication.Commands
             //3. Create JWT Token
 
 
-            var token = _jwtTokenGenerator.GenerateToken(user.Id, firstName, lastName);
+            var token = _jwtTokenGenerator.GenerateToken(user);
 
             return new AuthenticationResult(
                 user,

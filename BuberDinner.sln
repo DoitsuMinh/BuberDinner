@@ -30,6 +30,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FB545159-F813-4A99-96F8-8B3A9DE87410}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
+		..\..\jason.vu\Map\BuberDinner.drawio = ..\..\jason.vu\Map\BuberDinner.drawio
 	EndProjectSection
 EndProject
 Global

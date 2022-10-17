@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xLHrmhzMvYAQTE6T4bHYctXjMvNRi9TUU5/KYJ6W6NNcnGW8i6s9L2yZZdtvABR4Ueqyzn5Oth7FgoAqft3mzw==",
+  "dgSpecHash": "TBx6c67u6YbB5725oxblONBg8zbc2IuUO6+JYhlTCdY3G+KFFV1/yziq08KkI4otzZ91Y2CaRnQZZOLkFJtf2w==",
   "success": true,
   "projectFilePath": "D:\\GitHub\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jason.vu\\.nuget\\packages\\erroror\\1.0.1\\erroror.1.0.1.nupkg.sha512",
     "C:\\Users\\jason.vu\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
     "C:\\Users\\jason.vu\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\jason.vu\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\jason.vu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
   ],
   "logs": []

@@ -84,3 +84,7 @@ D:\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\ErrorOr.dll
 D:\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\ErrorOr.dll
 D:\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\MediatR.dll
 D:\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Mapster.dll
+D:\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Mapster.Core.dll
+D:\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Mapster.DependencyInjection.dll

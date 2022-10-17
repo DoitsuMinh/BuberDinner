@@ -16,7 +16,7 @@ namespace BuberDinner.Infrastructure.Persistence
             _user.Add(user);
         }
 
-        public User? GetUserByEmail(string email)
+        public User GetUserByEmail(string email)
         {
             return _user.SingleOrDefault(u => u.Email == email);
         }
