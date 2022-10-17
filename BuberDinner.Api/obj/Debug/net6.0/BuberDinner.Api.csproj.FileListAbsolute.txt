@@ -82,3 +82,5 @@ D:\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.genruntimeconfig
 D:\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\ref\BuberDinner.Api.dll
 D:\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\ErrorOr.dll
 D:\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\ErrorOr.dll
+D:\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\MediatR.dll
+D:\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\MediatR.Contracts.dll

@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "f7T50nzFCTmlWf9/Rwlpx9csUq63jYvWdt9bbtbmVC5SpjavPFRVsqhF05wT44e9EwRVTXZF4NFmZjO5s3zTNw==",
+  "dgSpecHash": "0diuE6R5Imz7KkP4Ii+Z9RC/E8QaitJDCSfjep/4SCvmQ16vOSVmHUQ7QcNCDLY8oq7h3/hwDC2v3D1hABHBMg==",
   "success": true,
   "projectFilePath": "D:\\GitHub\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jason.vu\\.nuget\\packages\\erroror\\1.0.1\\erroror.1.0.1.nupkg.sha512",
+    "C:\\Users\\jason.vu\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\jason.vu\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\jason.vu\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\jason.vu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\jason.vu\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
