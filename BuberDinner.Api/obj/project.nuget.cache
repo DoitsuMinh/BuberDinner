@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LtDMc1fqntnaMAmtwJ0dK55ZQG9WXumvC3YGJkfzDbWMVaT3QOnCUjq0b90fC56nsWZji5hKb4EmVW9ItIl/Mw==",
+  "dgSpecHash": "f7T50nzFCTmlWf9/Rwlpx9csUq63jYvWdt9bbtbmVC5SpjavPFRVsqhF05wT44e9EwRVTXZF4NFmZjO5s3zTNw==",
   "success": true,
   "projectFilePath": "D:\\GitHub\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jason.vu\\.nuget\\packages\\erroror\\1.0.1\\erroror.1.0.1.nupkg.sha512",
     "C:\\Users\\jason.vu\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\jason.vu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\jason.vu\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",

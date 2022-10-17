@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DcnsGRi0H8ZhVbBCpNnDZIp/u2D1/UZM5CXmCfgRb/hkjBYtw4rTViCbL4uVwQSqEklANFbxkQL/GYvEkgPNCg==",
+  "dgSpecHash": "0HIplFShkUQIPMakDeSU70UGhsYiOEABYC8KkBnLU5fLJnzQS8F3pExHlgWvwjKmrVaJ7SQjPhYsuH5qk22uIw==",
   "success": true,
   "projectFilePath": "D:\\GitHub\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jason.vu\\.nuget\\packages\\erroror\\1.0.1\\erroror.1.0.1.nupkg.sha512",
     "C:\\Users\\jason.vu\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\jason.vu\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
     "C:\\Users\\jason.vu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

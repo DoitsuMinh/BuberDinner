@@ -1,5 +1,6 @@
 ﻿using BuberDinner.Application.Services.Authentication;
 using BuberDinner.Contracts.Authentication;
+using ErrorOr;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BuberDinner.Api.Controllers
@@ -18,20 +19,27 @@ namespace BuberDinner.Api.Controllers
         [HttpPost("register")]
         public IActionResult Register(RegisterRequest request)
         {
-            var authResult = _authenticationService.Register(
+            ErrorOr<AuthenticationResult> authResult = _authenticationService.Register(
                 request.FirstName,
                 request.LastName,
                 request.Email,
                 request.Password);
 
-            var response = new AuthenticationResponse(
-                authResult.User.Id,
-                authResult.User.FirstName,
-                authResult.User.LastName,
-                authResult.User.Email,
-                authResult.Token);
+            return authResult.Match(
+                authResult => Ok(NewMethod(authResult)),
+                firstError => Problem(statusCode: StatusCodes.Status409Conflict)
 
-            return Ok(response);
+            );
+        }
+
+        private static AuthenticationResponse NewMethod(AuthenticationResult authResult)
+        {
+            return new AuthenticationResponse(
+                            authResult.User.Id,
+                            authResult.User.FirstName,
+                            authResult.User.LastName,
+                            authResult.User.Email,
+                            authResult.Token);
         }
 
         [HttpPost("login")]

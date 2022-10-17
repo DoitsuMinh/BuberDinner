@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MF2xAOW1+XY3bD3OrQwm3iDWbWFpEvqoNedV0ziZkpo//6ziP16cyWAXU4A+0/lBGV9hL9MFGZomngtKo6H7ug==",
+  "dgSpecHash": "xXB5L+DHs88MXhqaaIjwdBGrL5U71FE22OSYH/UWynCVAO8dqApQHL7SB16D6X0PAbDr7LxV3A595CkhLk7YYA==",
   "success": true,
   "projectFilePath": "D:\\GitHub\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jason.vu\\.nuget\\packages\\erroror\\1.0.1\\erroror.1.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
